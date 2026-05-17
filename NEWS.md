@@ -1,11 +1,8 @@
-# SEMPLR 1.1.2
+# SEMPLR 1.0.1
 
 * Adjusted `enrichSEMs()` function to only consider the highest scoring binding
 orientation for each sequence/SEM combination in enrichment calculations
 * Documentation updates to `scoreVariants()`, `enrichSEMs()`, and the vignette.
-
-# SEMPLR 1.1.1
-
 * Fixed bug in `plotSEMMotifs()` that was mislabeling plotted motifs with
 scores for both reverse and forward orientations
 
